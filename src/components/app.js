@@ -7,7 +7,7 @@ import Popular from "../components/popular.js"
 import Footer from "../components/footer.js"
 
 
-
+// Added/used the imported components 
 
 function App(){
     return(
